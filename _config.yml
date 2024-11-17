@@ -1,7 +1,7 @@
-#theme: minima#
+theme: minima
 title: CSBank - A Blog
 Author: CSBank
-theme: just-the-docs
+#theme: just-the-docs
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#aux_links:
+  #Template Repository: https://github.com/just-the-docs/just-the-docs-template
